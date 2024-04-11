@@ -8,5 +8,5 @@ Discuss:
 
 ## code:
 ### Gnome Extension
-- https://extensions.gnome.org/extension/1604/arrange-windows/
+- https://extensions.gnome.org/extension/1604/arrange-windows/ source: https://github.com/sunwxg/gnome-shell-extension-arrangeWindows
 - https://extensions.gnome.org/extension/4736/smart-auto-move/
